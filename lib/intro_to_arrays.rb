@@ -1,8 +1,8 @@
-def new_array_1
+def instantiate_new_array
   []
 end
 
-def new_array_2
+def array_with_two_elements
   ["element_one", "element_2"]
 end
 
